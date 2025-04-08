@@ -11,7 +11,6 @@ A full-stack AI-powered web app that analyzes how well your resume matches a giv
 - ✅ Extract skills from resume
 - 🎯 Match with job description skills
 - 📊 See a skill match score with matched and missing skills
-- 🎨 Clean UI with animated buttons and tags
 
 ---
 
