@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# React
+client/build/
+client/node_modules/
